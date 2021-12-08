@@ -16,7 +16,7 @@
 <b> My improved Screensaver Project</b>
 <p>The link to my improved screensaver project can be found here: https://openprocessing.org/sketch/1350239</p>
 <b> What I improved upon</b>
-<p>When I submited a project for the screensaver assignment, what I submited wasn't my own code, but just someone else's that I tweaked slightly. I was originally going to submit something else, but I felt like it was way too simple. So, for my improved screensaver project, I have decided to showcase what I was originally going to turn in. This is an improvement upon my original screensaver project because, even though it is simple, I can say with a lot more confidence that this code is my own. 
+<p>When I submited a project for the screensaver assignment, what I submited wasn't my own code, but just someone else's that I tweaked slightly. I was originally going to submit something else, but I felt like it was way too simple. So, for my improved screensaver project, I have decided to showcase what I was originally going to turn in. This is an improvement upon my original screensaver project because, even though it is simple and was inspired by code from a tutoiral that we did in class, I can say with a lot more confidence that this code is my own and that I understand how it works.</p>
 
 
 
