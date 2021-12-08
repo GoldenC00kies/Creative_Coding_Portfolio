@@ -9,6 +9,14 @@
 <p>The link to my open processing sketch for my improved Clock can be found here: https://openprocessing.org/sketch/1357748</p>
 <b>What I improved upon</b>
 <p>In my original Clock project, I had only one snowflake representing seconds. However, in my improved Clock project, I included a snowflake representing minutes and a snowflake which is supposed to represent hours. Unfortunatlly, the hours snowflake doesn't seem to quite work. However, I would say that this improved Clock code is better than the original because it has more measurements of time.</p>
+<b> My Improved Glitch Project</b>
+<p>The link to my three new glitched pieces can be found here: https://imgur.com/a/0Ey023p</p>
+<b> What I improved upon</b>
+<p>In my original series of posts for the Glitch project, I only had two glitched gifs in my gallery. I wanted to do more with glitching gifs, since there is so much creative potential. As a result, when I improved upon my glitch project, I viewed the new glitched gifs as part of my original gallery rather than their own seperate thing. My new glitch project is an improvement to my original glitch project by adding more variety in the form of glitched gifs.</p>
+<b> My improved Screensaver Project</b>
+<p>The link to my improved screensaver project can be found here: https://openprocessing.org/sketch/1350239</p>
+<b> What I improved upon</b>
+<p>When I submited a project for the screensaver assignment, what I submited wasn't my own code, but just someone else's that I tweaked slightly. I was originally going to submit something else, but I felt like it was way too simple. So, for my improved screensaver project, I have decided to showcase what I was originally going to turn in. This is an improvement upon my original screensaver project because, even though it is simple, I can say with a lot more confidence that this code is my own. 
 
 
 
